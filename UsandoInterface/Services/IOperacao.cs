@@ -4,13 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace cedula
+namespace UsandoInterface.Services
 {
-    enum Notas
+    interface IOperacao
     {
-        cinquenta = 50,
-        vinte = 20, 
-        dez = 10, 
-        um = 1
+        double Operacao(double numero1, double numero2);
     }
 }
