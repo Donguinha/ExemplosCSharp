@@ -44,6 +44,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsandoInterface", "UsandoIn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingDictionary", "UsingDictionary\UsingDictionary.csproj", "{13BA009C-A704-4E6C-9406-4AE0266A5DA1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaDeDadosPilha", "EstruturaDeDadosPilha\EstruturaDeDadosPilha.csproj", "{88768BC9-DFFF-4165-A8E2-3F7B7FADAEAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -138,5 +140,9 @@ Global
 		{13BA009C-A704-4E6C-9406-4AE0266A5DA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13BA009C-A704-4E6C-9406-4AE0266A5DA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13BA009C-A704-4E6C-9406-4AE0266A5DA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88768BC9-DFFF-4165-A8E2-3F7B7FADAEAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88768BC9-DFFF-4165-A8E2-3F7B7FADAEAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88768BC9-DFFF-4165-A8E2-3F7B7FADAEAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88768BC9-DFFF-4165-A8E2-3F7B7FADAEAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
